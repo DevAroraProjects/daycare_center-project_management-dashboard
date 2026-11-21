@@ -24,6 +24,10 @@ Cost Performance Index (CPI)		0.85			Cost efficiency indicator
 Dashboard Snapshopt
 Under Images Folder
 images/ — dashboard screenshots
+<img width="2080" height="1164" alt="image" src="https://github.com/user-attachments/assets/9624aaad-0b3d-49a6-85e7-e86bf9705fda" />
+<img width="2080" height="1164" alt="image" src="https://github.com/user-attachments/assets/3ec9833e-3ada-48b4-b4e0-9d0197f9a0be" />
+
+
 
 Interpretation: At the dashboard snapshot, reported earned value is below actual cost, and both the CPI and SPI are below 1.0. This indicates unfavorable cost and schedule performance in the displayed snapshot. These metrics should be interpreted with the project's underlying status date, data, and calculation definitions.
 Dashboard Features
