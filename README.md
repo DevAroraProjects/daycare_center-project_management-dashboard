@@ -2,6 +2,9 @@ Little Wings Academy — Project Performance & Cost Dashboard
 Project Overview
 Little Wings Academy is a daycare development project represented through a Power BI project-management dashboard. The dashboard brings together project progress, earned value, actual spending, cost performance, schedule performance, and work-package cost information in one view.
 
+Power Bi dashboard link: 
+https://oitncsu-my.sharepoint.com/:u:/g/personal/darora2_ncsu_edu/IQApMUd2gj9pT4VXXfcag_LpAcXDDmEk3JUh8k5Elif6uv8?e=UAMUev
+
 The dashboard is designed to help stakeholders monitor project delivery, identify cost pressure, and review progress across project phases.
 
 Dashboard KPIs
