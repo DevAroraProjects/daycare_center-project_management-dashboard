@@ -5,6 +5,10 @@ Little Wings Academy is a daycare development project represented through a Powe
 Power Bi dashboard link: 
 https://oitncsu-my.sharepoint.com/:u:/g/personal/darora2_ncsu_edu/IQApMUd2gj9pT4VXXfcag_LpAcXDDmEk3JUh8k5Elif6uv8?e=UAMUev
 
+<img width="2080" height="1164" alt="image" src="https://github.com/user-attachments/assets/9e1d10a5-e426-42b3-9aec-6274ec4a574a" />
+
+
+
 The dashboard is designed to help stakeholders monitor project delivery, identify cost pressure, and review progress across project phases.
 
 Dashboard KPIs
