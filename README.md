@@ -36,7 +36,6 @@ Site Preparation	$94K
 Design & Engineering	$92K
 
 
-These are the costs displayed in the dashboard screenshot. They are a snapshot of selected work packages, not necessarily the full project cost breakdown.
 Schedule & Status Snapshot
 The dashboard table displays construction activities with planned start dates, actual start dates (where available), status, and actual progress. The overall report also includes Closeout activities.
 
@@ -56,14 +55,11 @@ How to Use the Dashboard
 6. Compare planned and actual monthly cost in the monthly cost variance chart.
 7. Use the project activity table to review dates, statuses, and progress.
 
-Notes & Limitations
-- Values shown in this README are transcribed from the dashboard screenshots provided for this portfolio project.
-- KPI values may change when filters are applied.
-- The screenshots represent a dashboard snapshot; the report's data date and source data should be reviewed before making real project decisions.
 - This is an academic/portfolio demonstration. Project costs, schedules, and performance data should not be treated as verified estimates, contractual budgets, or real-world project reporting.
 
 Repository Contents
 - README.md — project description and dashboard guide
-- dashboard/ — Power BI .pbix report file (add this folder/file)
-- images/ — dashboard screenshots
-- documentation/ — supporting project documentation (if included)
+- Daycare_Center_Management_Dashboard.pbix — Power BI .pbix report file
+- Project Overview.pdf - Summary of the whole project
+- Images/ — dashboard screenshots
+- Data/ - Sample or cleaned data used in the dashboard
